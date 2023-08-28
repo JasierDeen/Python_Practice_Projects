@@ -33,3 +33,17 @@ Build Snake Game: Animation & Coordinates
 1. tracer() method: https://docs.python.org/3.3/library/turtle.html?highlight=turtle#turtle.tracer
 2. shapesize() method: https://docs.python.org/3/library/turtle.html#turtle.shape
 3. write() method: https://docs.python.org/3/library/turtle.html#turtle.write
+
+
+## Day 22
+
+Build Pong Game
+
+1. Create the screen
+2. Create and move a paddle
+3. Create another paddle
+4. Create the ball and make it move
+5. Detect collision with wall and bounce
+6. Detect collision with paddle
+7. Detect when paddle misses
+8. Keep score
